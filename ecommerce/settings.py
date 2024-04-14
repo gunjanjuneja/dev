@@ -27,7 +27,7 @@ DEBUG = False
 ALLOWED_HOSTS = ['dev-00em.onrender.com','*']
 
 
-#CSRF_TRUSTED_ORIGINS = ['https://www.edenthought.com']
+CSRF_TRUSTED_ORIGINS = ['https://dev-00em.onrender.com']
 
 
 # Set allowed cidr nets
