@@ -24,7 +24,7 @@ DEBUG = False
 
 #ALLOWED_HOSTS = ['mywebsite.com', 'www.mywebsite.com', 'localhost', '127.0.0.1', '*']
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['dev-00em.onrender.com','*']
 
 
 #CSRF_TRUSTED_ORIGINS = ['https://www.edenthought.com']
